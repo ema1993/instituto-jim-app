@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319824426199",
+    "firebase_url": "https://jimappconcursos.firebaseio.com",
+    "project_id": "jimappconcursos",
+    "storage_bucket": "jimappconcursos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319824426199:android:4082dd7a90e122d8b2ec92",
+        "android_client_info": {
+          "package_name": "com.example.jimappv2a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319824426199-1m8kg5gf9h6ang9drviunlkl216mejlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1S8rstL0AcRmcJZGGvAC_4zCh8-hrEkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319824426199-1m8kg5gf9h6ang9drviunlkl216mejlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
